@@ -2,7 +2,7 @@
 In Class Assignment
 
 ## Final Result
-# rachelkamienski[('lettuce_', '00')][('lettuce_', '01')][('tomato_', '00')][('tomato_', '01')][('tomato_', '02')]
+rachelkamienski[('lettuce_', '00')][('lettuce_', '01')][('tomato_', '00')][('tomato_', '01')][('tomato_', '02')]
 
 
 ## Installation
